@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/bhvy29/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/bhvy29/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/bhvy29/Leetcode/tree/master/0204-count-primes) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bhvy29/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0992-subarrays-with-k-different-integers](https://github.com/bhvy29/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bhvy29/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 <!---LeetCode Topics End-->

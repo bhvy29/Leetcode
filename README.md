@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/bhvy29/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/bhvy29/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/bhvy29/Leetcode/tree/master/0204-count-primes) |
+| [0704-binary-search](https://github.com/bhvy29/Leetcode/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/bhvy29/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bhvy29/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhvy29/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/bhvy29/Leetcode/tree/master/0035-search-insert-position) |
+| [0704-binary-search](https://github.com/bhvy29/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhvy29/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |

@@ -24,12 +24,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/bhvy29/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/bhvy29/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/bhvy29/Leetcode/tree/master/0204-count-primes) |
+| [0509-fibonacci-number](https://github.com/bhvy29/Leetcode/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bhvy29/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/bhvy29/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/bhvy29/Leetcode/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/bhvy29/Leetcode/tree/master/0509-fibonacci-number) |
 ## Enumeration
 |  |
 | ------- |
@@ -78,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bhvy29/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/bhvy29/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/bhvy29/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->

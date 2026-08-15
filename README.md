@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/bhvy29/Leetcode/tree/master/0412-fizz-buzz) |
 | [2169-count-operations-to-obtain-zero](https://github.com/bhvy29/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2293-min-max-game](https://github.com/bhvy29/Leetcode/tree/master/2293-min-max-game) |
 ## Math
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/bhvy29/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/bhvy29/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/bhvy29/Leetcode/tree/master/0204-count-primes) |
+| [0412-fizz-buzz](https://github.com/bhvy29/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/bhvy29/Leetcode/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bhvy29/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2169-count-operations-to-obtain-zero](https://github.com/bhvy29/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/bhvy29/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhvy29/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/bhvy29/Leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Counting

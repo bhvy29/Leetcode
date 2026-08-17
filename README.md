@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/bhvy29/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/bhvy29/Leetcode/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/bhvy29/Leetcode/tree/master/0204-count-primes) |
+| [0367-valid-perfect-square](https://github.com/bhvy29/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/bhvy29/Leetcode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/bhvy29/Leetcode/tree/master/0509-fibonacci-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bhvy29/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/bhvy29/Leetcode/tree/master/0035-search-insert-position) |
+| [0367-valid-perfect-square](https://github.com/bhvy29/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/bhvy29/Leetcode/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhvy29/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/bhvy29/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |

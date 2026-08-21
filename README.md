@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/bhvy29/Leetcode/tree/master/0204-count-primes) |
 | [0410-split-array-largest-sum](https://github.com/bhvy29/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/bhvy29/Leetcode/tree/master/0704-binary-search) |
+| [0746-min-cost-climbing-stairs](https://github.com/bhvy29/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0904-fruit-into-baskets](https://github.com/bhvy29/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/bhvy29/Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/bhvy29/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/bhvy29/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0509-fibonacci-number](https://github.com/bhvy29/Leetcode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/bhvy29/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Memoization
 |  |
 | ------- |

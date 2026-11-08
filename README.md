@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/bhvy29/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0402-remove-k-digits](https://github.com/bhvy29/Leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/bhvy29/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhvy29/Leetcode/tree/master/0424-longest-repeating-character-replacement) |

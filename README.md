@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bhvy29/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/bhvy29/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/bhvy29/Leetcode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/bhvy29/Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/bhvy29/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/bhvy29/Leetcode/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/bhvy29/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0402-remove-k-digits](https://github.com/bhvy29/Leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/bhvy29/Leetcode/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/bhvy29/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
@@ -414,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bhvy29/Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/bhvy29/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
